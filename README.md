@@ -8,6 +8,7 @@
 - Employ HTML syntax by converting a mockup of a blog article into a website.
 
 ![screenshot](Project-1.gif)
+
 - [Mockup to Article Github](https://mohampton.github.io/MockupToArticle/)
 - [Mockup to Article CodePen](https://codepen.io/MoHampton/pen/dJjXzq)
 ---
