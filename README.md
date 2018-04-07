@@ -2,12 +2,14 @@
 
 ![screenshot](GrowWithGoogleDeveloperChallengeScholarship.png)
 
+---
+
 ##Front-End Developer Projects:
 
 #### Project 1: Mockup to Article
 - Employ HTML syntax by converting a mockup of a blog article into a website.
 
-![screenshot](Project-1.gif)
+![screenshot](https://media.giphy.com/media/3gNkYORfuBOKvXqRyP/source.mp4)
 - [Mockup to Article Github](https://mohampton.github.io/MockupToArticle/)
 - [Mockup to Article CodePen](https://codepen.io/MoHampton/pen/dJjXzq)
 ---
