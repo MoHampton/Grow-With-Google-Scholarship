@@ -1,15 +1,13 @@
-# Grow with Google Challenge Scholarship
-
 ![screenshot](GrowWithGoogleDeveloperChallengeScholarship.png)
 
 ---
 
-##Front-End Developer Projects:
+# Front-End Developer Projects:
 
 #### Project 1: Mockup to Article
 - Employ HTML syntax by converting a mockup of a blog article into a website.
 
-![screenshot](https://media.giphy.com/media/3gNkYORfuBOKvXqRyP/source.mp4)
+![screenshot](Project-1.gif)
 - [Mockup to Article Github](https://mohampton.github.io/MockupToArticle/)
 - [Mockup to Article CodePen](https://codepen.io/MoHampton/pen/dJjXzq)
 ---
