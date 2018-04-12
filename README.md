@@ -10,6 +10,7 @@
 ![screenshot](Project-1.gif)
 
 - [Mockup to Article Github](https://mohampton.github.io/MockupToArticle/)
+
 - [Mockup to Article CodePen](https://codepen.io/MoHampton/pen/dJjXzq)
 ---
 
@@ -24,5 +25,7 @@
 - Build a single-page web app that allows users to draw pixel art on a customizable canvas.
 
 ![screenshot](Project-3.gif)
-- [Pixel Art Maker](https://mohampton.github.io/Pixel-Art-Maker/)
+- [Pixel Art Maker Github](https://mohampton.github.io/Pixel-Art-Maker/)
+
+- [Pixel Art Maker CodePen](https://codepen.io/MoHampton/full/wmRNrL/)
 ---
