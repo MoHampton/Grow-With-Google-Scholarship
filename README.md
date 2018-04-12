@@ -17,7 +17,7 @@
 #### Project 2: Animal Trading Cards
 - Translate a design prototype inspired by trading cards into a functional website.
 
-![screenshot](Project-2.png)
+![screenshot](Project-2.gif)
 - [Animal Trading Cards CodePen](https://codepen.io/MoHampton/full/NXOddo/)
 ---
 
