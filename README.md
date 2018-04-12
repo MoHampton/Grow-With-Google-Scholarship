@@ -10,7 +10,6 @@
 ![screenshot](Project-1.gif)
 
 - [Mockup to Article Github](https://mohampton.github.io/MockupToArticle/)
-
 - [Mockup to Article CodePen](https://codepen.io/MoHampton/pen/dJjXzq)
 ---
 
@@ -26,6 +25,5 @@
 
 ![screenshot](Project-3.gif)
 - [Pixel Art Maker Github](https://mohampton.github.io/Pixel-Art-Maker/)
-
 - [Pixel Art Maker CodePen](https://codepen.io/MoHampton/full/wmRNrL/)
 ---
